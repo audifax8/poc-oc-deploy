@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f9d14e1f.css",
-    "main.js": "/static/js/main.59c34625.js",
+    "main.css": "/static/css/main.a234a036.css",
+    "main.js": "/static/js/main.4b900bf0.js",
     "static/js/453.3272d406.chunk.js": "/static/js/453.3272d406.chunk.js",
     "static/media/Oswald-Medium.woff2": "/static/media/Oswald-Medium.5619d871b0b0db69937a.woff2",
     "static/media/Oswald-Medium.woff": "/static/media/Oswald-Medium.339979ff7e5f4ac7c60c.woff",
@@ -14,12 +14,12 @@
     "static/media/light-backgroung-mobilew.webp": "/static/media/light-backgroung-mobilew.c5dc6ee227bd288bff52.webp",
     "static/media/light-backgroung-desktopw.webp": "/static/media/light-backgroung-desktopw.c07ec6855be0cc393a38.webp",
     "index.html": "/index.html",
-    "main.f9d14e1f.css.map": "/static/css/main.f9d14e1f.css.map",
-    "main.59c34625.js.map": "/static/js/main.59c34625.js.map",
+    "main.a234a036.css.map": "/static/css/main.a234a036.css.map",
+    "main.4b900bf0.js.map": "/static/js/main.4b900bf0.js.map",
     "453.3272d406.chunk.js.map": "/static/js/453.3272d406.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9d14e1f.css",
-    "static/js/main.59c34625.js"
+    "static/css/main.a234a036.css",
+    "static/js/main.4b900bf0.js"
   ]
 }

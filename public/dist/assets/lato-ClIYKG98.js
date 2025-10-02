@@ -1,0 +1,1 @@
+import{j as o,k as n}from"./index-DV4yV7rO.js";function p({label:l,className:s,style:e,size:a,uppercase:r}){const t=a?`yr-lato-label__${a}`:"";return o.jsx("span",{className:n("yr-lato-label",t,{"yr-lato-label__uppercase":r},s),style:e,children:l})}export{p as L};

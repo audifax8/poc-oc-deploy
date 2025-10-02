@@ -1,0 +1,1 @@
+.yr-custom-header{position:relative;display:flex;justify-content:space-between}.yr-custom-header .yr-buttons-section .yr-button{background-color:var(--background-lux-ctas)}@media only screen and (max-width: 600px){.yr-custom-header{display:flex;flex-direction:column;gap:4px}.yr-custom-header .yr-button-icon svg{fill:var(--text-color-primary)}}
